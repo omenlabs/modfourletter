@@ -1,2 +1,3 @@
 # modfourletter
-Character device kernel module for the Pimoroni Four Letter pHAT
+
+Right now this repo contains C code to drive the Pimoroni [Four Letter pHAT](https://shop.pimoroni.com/products/four-letter-phat) from userspace.
